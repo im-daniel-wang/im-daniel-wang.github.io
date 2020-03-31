@@ -1,7 +1,3 @@
----
-image: IMG_4322.jpeg
----
-
 
 
 ### Academics
