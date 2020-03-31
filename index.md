@@ -9,9 +9,9 @@ I am currently a student at Northwestern University studying data science and an
 I am also an electric guitarist and singer-songwriter. Check out my [first EP](https://www.youtube.com/watch?v=2wTOEEMsGvI) on YouTube!
 
 ## Academics
-> 2019 Sept - 2020 Dec: __Northwestern University__ (M.S. in Analytics)
+> 2019 Sept - 2020 Dec: __Northwestern University__ [(M.S. in Analytics)](https://www.mccormick.northwestern.edu/analytics/)
 
-> 2015 Sept - 2019 Jun: __UCLA__ (B.S. in Mathematics/Economics)
+> 2015 Sept - 2019 Jun: __UCLA__ [(B.S. in Mathematics/Economics)](https://www.math.ucla.edu/)
 
 
 ## Selected Projects
