@@ -17,10 +17,10 @@ I am also an electric guitarist and singer-songwriter. Check out my [first EP](h
 ## Selected Projects
 ### [Spotify Data Visualization in D3.js](https://github.com/im-daniel-wang/MSIA411_Data_Vis_Spotify_Visualization)
 
-![Branching](/assets/img/spotify-1.png)
+![Octocat](/assets/img/spotify-1.png)
 
 ### [IMDB Data Mining](https://github.com/im-daniel-wang/IMDB-Data-Mining)
-![Branching](/assets/img/imdb.png)
+![Octocat](/assets/img/imdb.png)
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
