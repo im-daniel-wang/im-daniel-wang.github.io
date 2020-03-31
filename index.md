@@ -4,6 +4,18 @@ You can use the [editor on GitHub](https://github.com/im-daniel-wang/im-daniel-w
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Academics
+
+Northwestern University
+
+Master of Science in Analytics
+
+Expected Graduation: December 2020
+
+GPA: 3.96/4.0
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
