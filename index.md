@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+## Academics
+> Northwestern University
+
+> UCLA
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
