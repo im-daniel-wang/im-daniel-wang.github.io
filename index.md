@@ -1,10 +1,17 @@
 ---
 layout: default
 ---
-## Academics
-> 2019 Sept - 2020 Dec: __Northwestern University__
 
-> 2015 Sept - 2019 Jun: __UCLA__
+## Academics
+> 2019 Sept - 2020 Dec: __Northwestern University__ (M.S. in Analytics)
+
+> 2015 Sept - 2019 Jun: __UCLA__ (B.S. in Mathematics/Economics)
+
+## Selected Projects
+### [Spotify Data Visualization in D3.js](https://github.com/im-daniel-wang/MSIA411_Data_Vis_Spotify_Visualization)
+
+![Branching](/assets/img/spotify-1.png)
+
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
