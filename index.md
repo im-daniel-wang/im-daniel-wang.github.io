@@ -2,9 +2,9 @@
 layout: default
 ---
 ## Academics
-> Northwestern University
+> 2019 Sept - 2020 Dec: __Northwestern University__
 
-> UCLA
+> 2015 Sept - 2019 Jun: __UCLA__
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
