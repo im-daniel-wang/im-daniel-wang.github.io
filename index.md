@@ -2,6 +2,7 @@
 layout: default
 ---
 # About
+[_LinkedIn Profile_](https://www.linkedin.com/in/jue-wang-nwu/)
 
 I am currently a student at Northwestern University studying data science and analytics. 
 
