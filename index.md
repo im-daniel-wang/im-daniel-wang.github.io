@@ -6,6 +6,11 @@ You can use the [editor on GitHub](https://github.com/im-daniel-wang/im-daniel-w
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 -->
 
+---
+image: IMG_4322.jpeg
+---
+
+
 ### Academics
 
 #### Northwestern University
