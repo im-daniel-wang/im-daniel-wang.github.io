@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Academics
 
-# Northwestern University
+##### Northwestern University
 
 Master of Science in Analytics
 
@@ -16,7 +16,7 @@ GPA: 3.96/4.0
 
 ### Selected Projects
 
-# Spotify Data Visualization in D3.js](https://github.com/im-daniel-wang/MSIA411_Data_Vis_Spotify_Visualization)
+##### Spotify Data Visualization in D3.js](https://github.com/im-daniel-wang/MSIA411_Data_Vis_Spotify_Visualization)
 
 
 
