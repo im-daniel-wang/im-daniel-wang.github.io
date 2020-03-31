@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## About
+# About
 
 I am currently a student at Northwestern University studying data science and analytics. 
 
@@ -11,6 +11,7 @@ I am also an electric guitarist and singer-songwriter. Check out my [first EP](h
 > 2019 Sept - 2020 Dec: __Northwestern University__ (M.S. in Analytics)
 
 > 2015 Sept - 2019 Jun: __UCLA__ (B.S. in Mathematics/Economics)
+
 
 ## Selected Projects
 ### [Spotify Data Visualization in D3.js](https://github.com/im-daniel-wang/MSIA411_Data_Vis_Spotify_Visualization)
