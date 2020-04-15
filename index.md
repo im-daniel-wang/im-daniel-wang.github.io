@@ -15,6 +15,7 @@ I am also an electric guitarist and singer-songwriter. Check out my [first EP](h
 
 
 ## Selected Projects
+### [Build Change: House Retrofit Classification](https://github.com/im-daniel-wang/Build_Change)
 ### [Spotify Data Visualization in D3.js](https://github.com/im-daniel-wang/MSIA411_Data_Vis_Spotify_Visualization)
 
 ![Octocat](/assets/img/spotify-1.png)
