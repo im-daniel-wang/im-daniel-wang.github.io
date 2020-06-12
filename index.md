@@ -20,8 +20,6 @@ I am also an electric guitarist and singer-songwriter. Check out my [first EP](h
 
 ![Octocat](/assets/img/spotify-1.png)
 
-### [IMDB Data Mining](https://github.com/im-daniel-wang/IMDB-Data-Mining)
-![Octocat](/assets/img/imdb.png)
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
