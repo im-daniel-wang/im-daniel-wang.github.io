@@ -15,10 +15,14 @@ I am also an electric guitarist and singer-songwriter. Check out my [first EP](h
 
 
 ## Selected Projects
-### [Build Change: House Retrofit Classification](https://github.com/im-daniel-wang/Build_Change)
-### [Spotify Data Visualization in D3.js](https://github.com/im-daniel-wang/MSIA411_Data_Vis_Spotify_Visualization)
+
+### [Spotify Data Visualization in D3.js](https://im-daniel-wang.github.io/spotify_viz.github.io/)
 
 ![Octocat](/assets/img/spotify-1.png)
+
+### [Build Change: House Retrofit Classification](https://github.com/im-daniel-wang/Build_Change)
+
+![Octocat](/assets/img/real_img_process.png)
 
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
