@@ -16,6 +16,11 @@ I am also an electric guitarist and singer-songwriter. Check out my [first EP](h
 
 ## Selected Projects
 
+### [Mask On: Face Mask and N95 Mask Detection]
+
+![Octocat](/assets/img/mask.png)
+
+
 ### [Spotify Data Visualization in D3.js](https://im-daniel-wang.github.io/spotify_viz.github.io/)
 
 ![Octocat](/assets/img/spotify-1.png)
