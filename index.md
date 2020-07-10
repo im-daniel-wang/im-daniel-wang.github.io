@@ -16,7 +16,7 @@ I am also an electric guitarist and singer-songwriter. Check out my [first EP](h
 
 ## Selected Projects
 
-### Mask On: Face Mask and N95 Mask Detection
+### [Mask On: Face Mask and N95 Mask Detection](https://github.com/im-daniel-wang/MaskOn-Clinical-and-N95-Mask-Detector)
 
 ![Octocat](/assets/img/mask.png)
 
