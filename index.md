@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<meta property=”og:image” content=”https://im-daniel-wang.github.io/assets/img/IMG_6772.jpeg”/>
 # About
 [_LinkedIn Profile_](https://www.linkedin.com/in/jue-wang-nwu/)
 
