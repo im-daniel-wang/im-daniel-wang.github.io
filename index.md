@@ -18,6 +18,10 @@ I am currently a student at Northwestern University studying data science and an
 
 ![Octocat](/assets/img/mask.png)
 
+### [Flight Delay Predictor Web App](https://github.com/im-daniel-wang/Flight-Delay-Predictor-and-Airline-Recommender)
+
+![Octocat](/assets/img/flight.png)
+
 
 ### [Spotify Data Visualization in D3.js](https://im-daniel-wang.github.io/spotify_viz.github.io/)
 
