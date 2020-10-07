@@ -4,7 +4,7 @@ layout: default
 # About
 [_LinkedIn Profile_](https://www.linkedin.com/in/jue-wang-nwu/)
 
-I am currently a student at Northwestern University studying data science and analytics. 
+I am currently a student at Northwestern University studying data science and analytics, expecting to graduate in Dec 2020.  
 
 ## Academics
 > 2019 Sept - 2020 Dec: __Northwestern University__ [(M.S. in Analytics)](https://www.mccormick.northwestern.edu/analytics/)
