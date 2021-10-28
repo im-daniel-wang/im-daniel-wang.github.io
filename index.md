@@ -4,7 +4,7 @@ layout: default
 # About
 LinkedIn Profile: [_https://www.linkedin.com/in/jue-wang-nwu/_](https://www.linkedin.com/in/jue-wang-nwu/)
 
-Email: [_juewang2020@u.northwestern.edu_](juewang2020@u.northwestern.edu)
+Email: juewang2020@u.northwestern.edu
 
 I am currently a data science analyst at TrueData, an Ad-Tech company working on audience targeting and addressability. In my work I use data science to uncover behavioral trends from identity and deterministic mobile device data to help clients boost their digital marketing goals.
 
