@@ -1,8 +1,7 @@
 title: Jue Wang (Daniel)
 logo: /assets/img/IMG_6772.jpeg
 description: Data Scientist 
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
-email: juewang2020@u.northwestern.edu
-linkedin: https://www.linkedin.com/in/jue-wang-nwu/
+
